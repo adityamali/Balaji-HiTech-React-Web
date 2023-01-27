@@ -1,0 +1,9 @@
+.about {
+    flex-direction: column;
+    padding: 100px 250px;
+}
+
+.about p {
+    text-align: center;
+    line-height: 1.6;
+}
